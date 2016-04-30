@@ -1,6 +1,6 @@
 # DataBaseManager
 v1.0
-Summer Project for my students at NYIT, Pace and Farmingdale State College
+Summer Project for my students at NYIT, Pace and Farmingdale State College.
 However, anyone around the world can join us as an observer.
 
 Objective:
